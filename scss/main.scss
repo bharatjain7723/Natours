@@ -5,11 +5,16 @@
 @import "base/animations";    
 @import "base/base";    
 @import "base/typography";    
+
 @import "base/utilities";
 
-@import "component/button";
+@import "components/button";
+@import "components/composition";
+@import "components/feature-box";
 
-@import "layout/header.scss";
+
+@import "layouts/grid";
+@import "layouts/header";
 
 @import "pages/home";
  
